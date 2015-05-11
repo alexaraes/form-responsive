@@ -15,6 +15,9 @@ label {
   margin-bottom: 15px;
   display: block; }
 
+input {
+  box-sizing: border-box; }
+
 input[type=text] {
   display: block;
   background-color: #47a3da;
@@ -65,5 +68,18 @@ select {
   width: 200px;
   height: 45px;
   padding-top: 15px; }
+
+@media (min-width: 767px) {
+  .div1 {
+    float: left;
+    width: 40%; }
+
+  .div2 {
+    margin-top: 50px;
+    float: right;
+    width: 40%; }
+
+  .div3 {
+    clear: both; } }
 
 /*# sourceMappingURL=style.css.map */
