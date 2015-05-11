@@ -1,8 +1,6 @@
-* {
-  font-family: Lato, Calibri, Arial, sans-serif; }
-
 body {
-  background-color: #47a3da; }
+  background-color: #47a3da;
+  font-family: Lato, Calibri, Arial, sans-serif; }
 
 div {
   color: white;

@@ -1,14 +1,10 @@
 $primary-color: #47a3da;
 $secondary-color: white;
 $tertiary-color: #10689a;
-$field-margins: 45px;
-
-* {
-	font-family: Lato, Calibri, Arial, sans-serif;
-}
 
 body {
 	background-color: $primary-color;
+	font-family: Lato, Calibri, Arial, sans-serif;
 }
 
 div {
